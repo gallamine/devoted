@@ -349,7 +349,7 @@ limit 20
 
 `1508879123,35-871-3131` is a 9 digit phone number. Possibly valid in some countries. Skipped this one.
 
-Also a malfored record, `1083682496,813-657-499` was skipped.
+Also a malfored record, `1083682496,813-657-499` was skipped along with `1083682496,813-657-499`.
 
 Have to deal with `1` or `+1` country code strings (like `+1 786.596.6743`). Also have to not include extension information in the base string, like (`(305) 913-1658 ext. 13`).
 
@@ -363,4 +363,7 @@ See `data_scraping.html` or `data_scraping.ipynb` for details.
 
 # Closing Notes:
 
-This exercise took 5 hours. Several of the questions were ambiguous. The exercise didn't include context about what the intent was - given the scope of the work it isn't reasonable to expect well designed, idiomatic and tested code.
+- This exercise took 5 hours. 
+- Several of the questions were ambiguous. 
+- The exercise didn't include context about what the intent was (weed-out, testing clean code, ...) 
+- given the scope of the work it isn't reasonable to expect well designed, idiomatic and tested code.
