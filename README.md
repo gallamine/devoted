@@ -363,7 +363,6 @@ See `data_scraping.html` or `data_scraping.ipynb` for details.
 
 # Closing Notes:
 
-- This exercise took 5 hours. 
 - Several of the questions were ambiguous. 
 - The exercise didn't include context about what the intent was (weed-out, testing clean code, ...) 
-- given the scope of the work it isn't reasonable to expect well designed, idiomatic and tested code.
+- I interpreted the requirements and time-limit to indicate that it wasn't expected to produce well designed, idiomatic and tested code.
